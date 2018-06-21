@@ -1,0 +1,9 @@
+*
+!/.config
+!/.config/mr
+!/.config/mr/config.d
+!/.config/mr/config.d/tmux.vcsh
+!/.config/mr/config.d/tpm.git
+!/.gitignore.d
+!/.gitignore.d/tmux
+!/.tmux.conf

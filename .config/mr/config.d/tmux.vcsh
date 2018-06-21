@@ -1,0 +1,3 @@
+[$HOME/.config/vcsh/repo.d/tmux.git]
+checkout = vcsh clone git://github.com/Meroje/tmux.git tmux 
+

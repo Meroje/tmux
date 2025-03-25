@@ -4,6 +4,7 @@
 !/.config/mr/config.d
 !/.config/mr/config.d/tmux.vcsh
 !/.config/mr/config.d/tpm.git
+!/.config/tmux
+!/.config/tmux/tmux.conf
 !/.gitignore.d
 !/.gitignore.d/tmux
-!/.tmux.conf

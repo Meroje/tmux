@@ -1,6 +1,6 @@
-[$HOME/.tmux/plugins/tmux-sensible]
+[$HOME/.config/tmux/plugins/tmux-sensible]
 checkout = git clone 'https://github.com/tmux-plugins/tmux-sensible' 'tmux-sensible'
 
-[$HOME/.tmux/plugins/tpm]
+[$HOME/.config/tmux/plugins/tpm]
 checkout = git clone 'https://github.com/tmux-plugins/tpm.git' 'tpm'
 
